@@ -1,4 +1,4 @@
-﻿#include<iostream>
+#include<iostream>
 using namespace std;
 
 int main() {
@@ -32,5 +32,4 @@ int main() {
 	cin >> square_side;
 	int square_sum = (hight * width) / square_side;
 	cout << "Количество квадратов " << square_sum << endl;
-
 }
